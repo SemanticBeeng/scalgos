@@ -1,0 +1,4 @@
+IntroToCS/LinearAlgebra/Trigonometry
+Trigonometry/TheoreticalCS/Calculus
+LinearAlgebra/NeuralNetworks
+Calculus/LinearAlgebra/NeuralNetworks
