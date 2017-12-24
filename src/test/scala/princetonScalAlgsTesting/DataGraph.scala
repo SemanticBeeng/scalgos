@@ -5,7 +5,8 @@ package princetonScalAlgsTesting
   */
 object DataGraph {
 
-     val root = "/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/resources/edu/princeton/algs4-data/"
+     val root = "/datascience/projects/statisticallyfit/github/Scala/ScalaAlgorithms/resources/edu/princeton/algs4" +
+          "-data/"
 
      val tinyG: String = root + "tinyG.txt"
      val tinyCG: String = root + "tinyCG.txt"
